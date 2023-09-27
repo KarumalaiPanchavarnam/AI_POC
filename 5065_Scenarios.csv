@@ -1,0 +1,4 @@
+Log snippet,RCA
+Unable to bind to gx session with framed ip 1.2.3.4,Gx session is not found in the database.
+Querying all partitions and secondary key not found.,Going for fulldbscan and secondary key not found and search count exhausted
+Data store error. Unable to find the the gx session,Mongodb un accessible
